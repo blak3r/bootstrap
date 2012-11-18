@@ -2,7 +2,7 @@
 =================
 
 Gitimg provides view counts rendered as an image.  In markdown, insert:<br>
-<code>[alt text](https://views.gitimg.com/username/filepath)</code><br>
+<PRE>[alt text](https://views.gitimg.com/username/filepath)</PRE><br>
 for a dynamically updated download count!
 
 To get started, checkout http://gitimg.com
