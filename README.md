@@ -1,9 +1,10 @@
-[Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+[Your Project](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap) Downloaded 1826 times since 2/15/2011.
 =================
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
+Gitimg provides view counts rendered as an image.  View Counts are updated dynamically!
 
-To get started, checkout http://getbootstrap.com!
+
+To get started, checkout http://gitimg.com
 
 
 
