@@ -1,10 +1,9 @@
-[Your Project](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap) 
+[FooBar](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap) 
 =================
 
-Gitimg provides view counts rendered as an image.  View Counts are updated dynamically!
-Simply link to (https://views.gitimg.com/username/filepath) and an image of number of downloads
-is returned instead of the image!
-
+Gitimg provides view counts rendered as an image.  In markdown, insert:<br>
+<code>[alt text](https://views.gitimg.com/username/filepath)</code><br>
+for a dynamically updated download count!
 
 To get started, checkout http://gitimg.com
 
