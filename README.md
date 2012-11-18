@@ -1,11 +1,11 @@
 [FooBar](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap) 
 =================
 
-Gitimg provides view counts rendered as an image.  In markdown, insert:<br>
-<PRE>[alt text](https://views.gitimg.com/username/filepath)</PRE><br>
-for a dynamically updated download count!
+ Get img view counts rendered as an image.<br>
+`[download count](https://views.gitimg.com/username/filepath)`<br>
+ provides a dynamically updated download count!
 
-To get started, checkout http://gitimg.com
+ To get started, checkout http://gitimg.com
 
 
 
