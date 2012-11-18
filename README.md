@@ -1,7 +1,9 @@
-[Your Project](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap) Downloaded 1826 times since 2/15/2011.
+[Your Project](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap) 
 =================
 
 Gitimg provides view counts rendered as an image.  View Counts are updated dynamically!
+Simply link to (https://views.gitimg.com/username/filepath) and an image of number of downloads
+is returned instead of the image!
 
 
 To get started, checkout http://gitimg.com
